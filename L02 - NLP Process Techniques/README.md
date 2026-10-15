@@ -1,0 +1,1 @@
+In Lab 2, we went over the processing basics of NLP as tokenization, stemming and lemmatization, stop words removal, and the differences between NLTK and spaCY. It gave us an overview of these processes are very important in the start of an NLP function.
