@@ -1,1 +1,1 @@
-.
+In Lab 4, it gave an overview how the model processes each word, see how many times it pops up as BOW with the differences of IDF-TF, and N-grams along with that. This show me how the language process each word of its mood and meaning and how it gives spotlight to words to organize them into sections.
