@@ -7,4 +7,5 @@ Objective: Develop a NewsBot Intelligence System that uses Natural Language Proc
 The goal was to combine the NLP techniques we learned in class into one working system. NewsBot can classify news articles, analyze sentiment, identify named entities, and examine grammatical patterns. 
 This can be implement towards news organizations and businesses that need to process large amounts of news.  
 
+
 ITAI2373_NewsBot_Midterm Objective https://github.com/ElhamTimory/ITAI2373_NewsBot_Midterm
